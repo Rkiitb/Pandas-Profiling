@@ -30,5 +30,5 @@ the df as input and run the following commands
 profile=ProfileReport(df)
 profile.to_file('give_name_to_output_file.html')
 
-"""Now go to the file ssection if you are working on google collab and refresh it . you'll se an html file. Download this file and open it and wallah here's the complete visualization of your data"""
+"""Now go to the file section if you are working on google collab and refresh it . you'll see an html file. Download this file and open it and wallah here's the complete visualization of your data"""
 
